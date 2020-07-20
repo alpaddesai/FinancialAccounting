@@ -4,7 +4,7 @@ The project provides an introduction to Financial Reporting and Financial Accoun
 
 Confidential information is not displayed. Please download the executable in for details from https://github.com/alpaddesai/FinancialAccounting/releases
 
-All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom.
+All images are custom by Alpa D Desai  
 
 ## Financial Reporting
 ![image](FinancialReporting.png)
