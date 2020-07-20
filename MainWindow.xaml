@@ -5,8 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FinancialAccounting"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="823" Width="1120" MaxWidth="1120">
+    <Grid MaxWidth="1120" MaxHeight="823">
+        <TabControl Margin="0,0,23,14">
+            <TabItem Header="Financial Reporting">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="2,7,-2,9" Stretch="Fill" Source="/Spreadsheet.jpg"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Balance Sheets" Height="20" VerticalAlignment="Bottom">
+                <Grid Background="#FFE5E5E5" Margin="22,0,-5,88" Height="673">
+                    <Image Margin="8,13,11,19" Stretch="Fill" Source="/image.png"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
 
     </Grid>
 </Window>

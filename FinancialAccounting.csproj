@@ -6,4 +6,17 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="image.png" />
+    <None Remove="image1.gif" />
+    <None Remove="image2.jpg" />
+    <None Remove="Spreadsheet.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image.png" />
+    <Resource Include="image1.gif" />
+    <Resource Include="Spreadsheet.jpg" />
+  </ItemGroup>
+
 </Project>
