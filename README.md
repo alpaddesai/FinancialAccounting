@@ -1,4 +1,4 @@
-# Financial Accounting
+# Equity Research in the Technology Sector
 
 The project provides an introduction to Financial Reporting and Financial Accounting
 
