@@ -12,7 +12,7 @@ All images are custom by Alpa D Desai
 ## Balance Sheet
 ![image](BalanceSheets.png)
 
-## 
+## Certificate
 ![image](QuantitativeMethods.jpg)
 
 
