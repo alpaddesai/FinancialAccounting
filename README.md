@@ -12,4 +12,8 @@ All images are custom by Alpa D Desai
 ## Balance Sheet
 ![image](BalanceSheets.png)
 
+## 
+![image](QuantitativeMethods.jpg)
+
+
 Advanced knowledge : https://github.com/alpaddesai/PredictionModelWithBloomberg and https://github.com/alpaddesai/PortfolioReturnGUI
