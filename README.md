@@ -16,4 +16,4 @@ All images are custom by Alpa D Desai
 ![image](QuantitativeMethods.jpg)
 
 
-Advanced knowledge :https://github.com/alpaddesai/PredictionModelWithBloombergIdea and https://github.com/alpaddesai/PortfolioReturnGUIIdea
+Advanced knowledge :https://github.com/alpaddesai/PredictionModelWithBloombergIdea and https://github.com/alpaddesai/PortfolioReturnGUIIdea , https://github.com/alpaddesai/ProbabilityStochasticProcesses
