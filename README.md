@@ -9,8 +9,6 @@ All images are custom by Alpa D Desai
 ## Financial Reporting
 ![image](FinancialReporting.png)
 
-## Balance Sheet
-![image](BalanceSheets.png)
 
 ## Certificate
 ![image](QuantitativeMethods.jpg)
