@@ -15,3 +15,5 @@ All images are custom by Alpa D Desai
 
 
 Advanced knowledge :https://github.com/alpaddesai/PredictionModelWithBloombergIdea, https://github.com/alpaddesai/FinancialMarkets,  https://github.com/alpaddesai/PortfolioReturnGUIIdea , https://github.com/alpaddesai/ProbabilityStochasticProcesses , https://github.com/alpaddesai/InternationalManagerialFinance , https://github.com/alpaddesai/FinancialAdvice and https://github.com/alpaddesai/CostManagement
+
+![image](USCopyrightCertificateofRegistration.png)
