@@ -11,6 +11,8 @@ Custom entity valuations from public company 10ks are shown:
 
 ![image](FinancialReporting.png)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
 
 ## Certificate
 ![image](QuantitativeMethods.jpg)
