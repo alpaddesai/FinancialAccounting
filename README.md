@@ -8,8 +8,10 @@ All images are custom by Alpa D Desai
 
 ## Financial Reporting
 Custom entity valuations from public company 10ks are shown: 
-
 ![image](FinancialReporting.png)
+
+## Equity Research 
+![image](EquityResearchFinancialModeling.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
