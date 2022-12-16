@@ -6,7 +6,7 @@ Confidential information is not displayed. Please download the executable in for
 
 All images are custom by Alpa D Desai  
 
-## Financial Reporting
+## 
 
 
 ## Portfolio Image
