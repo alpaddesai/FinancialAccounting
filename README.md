@@ -1,10 +1,8 @@
 # Mutual Funds Project
 
-The project provides an introduction to Financial Reporting and Financial Accounting
+The project provides an introduction to Mutual Funds Project
 
-Confidential information is not displayed. Please download the executable in for details from https://github.com/alpaddesai/FinancialAccounting/releases
-
-All images are custom by Alpa D Desai 
+Confidential information is not displayed. All images are custom by Alpa D Desai 
 
 ## Portfolio 
 ![image](PortfolioImage.jpg)
