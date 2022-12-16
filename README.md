@@ -1,4 +1,4 @@
-# Mutual Funds Project
+# Financial Accounting
 
 The project provides an introduction to Mutual Funds Project
 
