@@ -1,4 +1,4 @@
-# Equity Research in the Technology Sector
+# Mutual Funds Project
 
 The project provides an introduction to Financial Reporting and Financial Accounting
 
