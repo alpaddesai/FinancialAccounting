@@ -1,10 +1,8 @@
 # Financial Accounting
 
-The project provides an introduction to Mutual Funds Project
+The project provides an overview of Financial Accounting
 
-Confidential information is not displayed. All images are custom by Alpa D Desai 
-
-
+Confidential information is not displayed. 
 
 ## CFA
 ![image](CFAExam.jpg)
