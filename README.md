@@ -12,6 +12,9 @@ All images are custom by Alpa D Desai
 ## Mutual Fund
 ![image](MutualFund.png)
 
+## Global Mutual Funds
+![image](MutualFundsAlpaDesai.jpg)
+
 ## CFA
 ![image](CFAExam.jpg)
 
