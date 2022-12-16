@@ -10,9 +10,6 @@ All images are custom by Alpa D Desai
 Custom entity valuations from public company 10ks are shown: 
 ![image](FinancialReporting.png)
 
-## Diversified Portfolio
-![image](DiversifiedPortfolio.jpg)
-
 ## Equity Research 
 ![image](EquityResearchFinancialModeling.jpg)
 
