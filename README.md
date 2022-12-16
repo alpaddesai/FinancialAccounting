@@ -13,6 +13,9 @@ Custom entity valuations from public company 10ks are shown:
 ## Equity Research 
 ![image](EquityResearchFinancialModeling.jpg)
 
+## Diversified Portfolio
+![image](DiversifiedPortfolio.jpg)
+
 ## CFA
 ![image](CFAExam.jpg)
 
