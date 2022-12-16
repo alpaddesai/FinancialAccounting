@@ -9,6 +9,9 @@ All images are custom by Alpa D Desai
 ## Portfolio 
 ![image](PortfolioImage.jpg)
 
+## Mutual Fund
+![image](MutualFund.png)
+
 ## CFA
 ![image](CFAExam.jpg)
 
