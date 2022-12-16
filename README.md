@@ -4,14 +4,7 @@ The project provides an introduction to Mutual Funds Project
 
 Confidential information is not displayed. All images are custom by Alpa D Desai 
 
-## Portfolio 
-![image](PortfolioImage.jpg)
 
-## Mutual Fund
-![image](MutualFund.png)
-
-## Global Mutual Funds
-![image](MutualFundsAlpaDesai.jpg)
 
 ## CFA
 ![image](CFAExam.jpg)
