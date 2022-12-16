@@ -7,14 +7,11 @@ Confidential information is not displayed. Please download the executable in for
 All images are custom by Alpa D Desai  
 
 ## Financial Reporting
-Custom entity valuations from public company 10ks are shown: 
-![image](FinancialReporting.png)
+
 
 ## Portfolio Image
 ![image](PortfolioImage.jpg)
 
-## Equity Research 
-![image](EquityResearchFinancialModeling.jpg)
 
 ## CFA
 ![image](CFAExam.jpg)
