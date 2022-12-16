@@ -4,6 +4,9 @@ The project provides an overview of Financial Accounting
 
 Confidential information is not displayed. 
 
+## Financial Accounting
+![image](FinancialAccounting.jpg)
+
 ## CFA
 ![image](CFAExam.jpg)
 
