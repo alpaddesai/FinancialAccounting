@@ -4,14 +4,10 @@ The project provides an introduction to Financial Reporting and Financial Accoun
 
 Confidential information is not displayed. Please download the executable in for details from https://github.com/alpaddesai/FinancialAccounting/releases
 
-All images are custom by Alpa D Desai  
+All images are custom by Alpa D Desai 
 
-## 
-
-
-## Portfolio Image
+## Portfolio 
 ![image](PortfolioImage.jpg)
-
 
 ## CFA
 ![image](CFAExam.jpg)
