@@ -15,5 +15,5 @@ Confidential information is not displayed.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge :https://github.com/alpaddesai/PredictionModelWithBloombergIdea, https://github.com/alpaddesai/FinancialMarkets,  https://github.com/alpaddesai/PortfolioReturnGUIIdea ,  https://github.com/alpaddesai/InternationalManagerialFinance and https://github.com/alpaddesai/FinancialAdvice
+Advanced knowledge https://github.com/alpaddesai/PredictionModelWithBloombergIdea, https://github.com/alpaddesai/FinancialMarkets,  https://github.com/alpaddesai/PortfolioReturnGUIIdea ,  https://github.com/alpaddesai/InternationalManagerialFinance and https://github.com/alpaddesai/FinancialAdvice
 
