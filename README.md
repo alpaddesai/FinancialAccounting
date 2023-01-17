@@ -7,9 +7,6 @@ Confidential information is not displayed.
 ## Financial Accounting
 ![image](FinancialAccounting.jpg)
 
-## CFA
-![image](CFAExam.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
